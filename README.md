@@ -4,6 +4,7 @@ A really easy way to get started playing with Elixir.
 
 ```
 git clone https://github.com/moredip/elixir-playground.git
+cd elixir-playground
 vagrant up
 ./iex
 ```
